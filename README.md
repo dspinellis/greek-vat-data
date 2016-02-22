@@ -10,6 +10,7 @@ Details about each client are provided in the `README` file in each directory.
 Currently the following client is provided.
 
 * Bash: Unix (and Cygwin) _bash_ shell script
+* PHP
 
 # Contributing
 Contributions in other languages (e.g. Java, .NET, Python, JavaScript) are
