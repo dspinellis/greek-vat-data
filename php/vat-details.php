@@ -78,8 +78,8 @@ function checkVATGR($username,$password,$AFMcalledby="",$AFMcalledfor)
 
 function checkVATEU($vatNo)
 {
-    //$client = new SoapClient( "http://ec.europa.eu/taxation_customs/vies/checkVatService.wsdl");
-    $client = new SoapClient( "checkVatService.wsdl");
+    $client = new SoapClient( "http://ec.europa.eu/taxation_customs/vies/checkVatService.wsdl");
+    //$client = new SoapClient( "checkVatService.wsdl");
     $result = $client->checkVat(array('countryCode'=>'EL','vatNumber'=>$vatNo));
 
 	return $result;

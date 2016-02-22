@@ -1,6 +1,7 @@
 # Get details for a Greek VAT code
-Example php source which obtains VAT details from GSIS. This example
-is run from the command-line. Compatible with php 5.3
+Example php source which obtains VAT details from GSIS. 
+
+This example is run from the command-line. Compatible with php 5.3
 
 Also includes a function which calls the VIES Soap VAT details services.
 
