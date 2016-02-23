@@ -7,9 +7,10 @@ provided by the Greek Public Revenue Authority and
 the General Secretariat of Information Systems at the Greek Ministry of Finance.
 
 Details about each client are provided in the `README` file in each directory.
-Currently the following client is provided.
+Currently the following clients are provided.
 
 * Bash: Unix (and Cygwin) _bash_ shell script
+* C#
 * PHP
 
 # Contributing
