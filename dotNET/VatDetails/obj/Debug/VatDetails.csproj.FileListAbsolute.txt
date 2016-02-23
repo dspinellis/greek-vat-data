@@ -1,8 +1,0 @@
-C:\Users\v-digkan\Desktop\VatDetails\VatDetails\bin\Debug\VatDetails.exe.config
-C:\Users\v-digkan\Desktop\VatDetails\VatDetails\bin\Debug\VatDetails.exe
-C:\Users\v-digkan\Desktop\VatDetails\VatDetails\bin\Debug\VatDetails.pdb
-C:\Users\v-digkan\Desktop\VatDetails\VatDetails\obj\Debug\VatDetails.exe
-C:\Users\v-digkan\Desktop\VatDetails\VatDetails\obj\Debug\VatDetails.pdb
-C:\Projects\greek-vat-data\dotNET\VatDetails\bin\Debug\VatDetails.exe.config
-C:\Projects\greek-vat-data\dotNET\VatDetails\obj\Debug\VatDetails.exe
-C:\Projects\greek-vat-data\dotNET\VatDetails\obj\Debug\VatDetails.pdb
