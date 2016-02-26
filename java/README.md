@@ -23,14 +23,6 @@ Display the service's version.
 This service can be used without a user name and a password. Example:
 The code is written in Java using Maven and required Maven and Java installed.
 
-```
-
-```
-
-## tab-separated.xslt
-Convert the service's XML data into a tab-separated line, which you
-can then paste into Excel.
-
 Example:
 ```
  mvn compile exec:java -Pvat_version
