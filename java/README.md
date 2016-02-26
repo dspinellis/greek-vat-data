@@ -34,8 +34,9 @@ can then paste into Excel.
 Example:
 ```
  mvn compile exec:java -Pvat_version
- ```
- 
+```
+
+```
  The output should look somethings like (first time you might download a few more maven related jar dependencies)
  
  [INFO] Scanning for projects...
