@@ -18,6 +18,20 @@ The script is written in Java using [Maven]. You need to install Java and maven 
 ```
 mvn compile exec:java -Pvat_details -Dexec.args="YOUR-USERNAME YOUR-SERVICE-PASSWORD YOUR-VAT REQUESTED-VAT"
 ```
+
+If the requested VAT is 090165560, then the output should contain
+
+```
+A.F.M : 090165560   
+Title : null
+Onomasia : ΥΠΟΥΡΓΕΙΟ ΟΙΚΟΝΟΜΙΚΩΝ ΓΕΝ Δ-ΝΣΗ Δ-ΚΗΣΥΠ-ΞΗΣ Δ ΟΙΚ
+Registration date : 1993-02-08T00:00:00.000+02:00
+Activate flag? : 1
+Activate? : ΕΝΕΡΓΟΣ ΑΦΜ          
+D.O.Y. : 1104
+D.O.Y. Description : Δ΄ ΑΘΗΝΩΝ
+Postal Address : Κ ΣΕΡΒΙΑΣ
+```
 ## version.sh
 Display the service's version.
 
