@@ -15,8 +15,9 @@ using this service from the
 [GSIS site](https://www1.gsis.gr/webtax/wspublicreg).
 The script is written in Java using [Maven]. You need to install Java and maven to run these examples.
 
-TODO: To be implemented.
-
+```
+mvn compile exec:java -Pvat_details -Dexec.args="YOUR-USERNAME YOUR-SERVICE-PASSWORD YOUR-VAT REQUESTED-VAT"
+```
 ## version.sh
 Display the service's version.
 
@@ -25,7 +26,7 @@ The code is written in Java using Maven and required Maven and Java installed.
 
 Example:
 ```
- mvn compile exec:java -Pvat_version
+mvn compile exec:java -Pvat_version
 ```
 
 ```
