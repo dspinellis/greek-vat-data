@@ -9,9 +9,10 @@ the General Secretariat of Information Systems at the Greek Ministry of Finance.
 Details about each client are provided in the `README` file in each directory.
 Currently the following clients are provided.
 
-* Bash: Unix (and Cygwin) _bash_ shell script
-* C#
-* PHP
+* Bash shell script by Diomidis Spinellis
+* C# contributed by [Dimitris - Ilias Gkanatsios](http://www.dgkanatsios.com)
+* Java contributed by Anastasios Zouzias
+* PHP contributed by Spiros Ioannou
 
 # Contributing
 Contributions in other languages (e.g. Java, .NET, Python, JavaScript) are
