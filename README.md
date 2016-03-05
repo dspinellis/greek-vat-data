@@ -5,6 +5,8 @@ through the
 [web service](http://gsis.gr/gsis/info/gsis_site/PublicIssue/wnsp/wnsp_pages/wnsp.html)
 provided by the Greek Public Revenue Authority and
 the General Secretariat of Information Systems at the Greek Ministry of Finance.
+Note that this project is a volunteer effort and **is not affiliated in any way** with the
+data service providers at the Greek Ministry of Finance.
 
 Details about each client are provided in the `README` file in each directory.
 Currently the following clients are provided.
