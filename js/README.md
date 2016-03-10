@@ -18,10 +18,11 @@ cd greek-vat-data/js
 To start a nodejs webApp that provides REST access to the GSIS Soap service, type
 
 ```
+npm install
 node app.js
 ```
 
-to start locally a webApp: `http://localhost:3000`.
+to install nodejs dependencies and start locally a webApp: `http://localhost:3000`.
 
 The webApp provides two main HTTP GET endpoints
 
