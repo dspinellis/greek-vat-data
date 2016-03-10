@@ -14,11 +14,11 @@ Currently the following clients are provided.
 * Bash shell script by Diomidis Spinellis
 * C# contributed by [Dimitris - Ilias Gkanatsios](http://www.dgkanatsios.com)
 * Java contributed by Anastasios Zouzias
-* Javascript contributed by Anastasios Zouzias
+* JavaScript contributed by Anastasios Zouzias
 * PHP contributed by Spiros Ioannou
 
 # Contributing
-Contributions in other languages (e.g. Java, .NET, Python, JavaScript) are
+Contributions in other languages (e.g. Python, Ruby, C++, client-side JavaScript) are
 welcomed.
 Please follow these steps to contribute a new client.
 
