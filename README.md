@@ -12,6 +12,7 @@ Currently the following clients are provided.
 * Bash shell script by Diomidis Spinellis
 * C# contributed by [Dimitris - Ilias Gkanatsios](http://www.dgkanatsios.com)
 * Java contributed by Anastasios Zouzias
+* Javascript contributed by Anastasios Zouzias
 * PHP contributed by Spiros Ioannou
 
 # Contributing
