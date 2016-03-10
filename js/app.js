@@ -91,12 +91,6 @@ app.get('/details', function(request, response, next) {
     var vatBy = request.param('vatBy', null);
     var vatFor = request.param('vatFor', null);
 
-    console.log('Get parameters:');
-    console.log('username: '+ username);
-    console.log('password: ' + password);
-    console.log('vatBy: ' + vatBy);
-    console.log('vatFor: ' + vatFor);
-
     var vatDetails = vatDetailsFunc(username,password, vatBy, vatFor);
 
     var req = https.request(vatDetails.httpOptions, function(res) {
