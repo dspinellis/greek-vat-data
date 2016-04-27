@@ -17,6 +17,10 @@ Currently the following clients are provided.
 * JavaScript contributed by Anastasios Zouzias
 * PHP contributed by Spiros Ioannou
 
+Other clients (not hosted in this repo):
+
+* [Node.js client](https://www.npmjs.com/package/afm-info)
+
 # Contributing
 Contributions in other languages (e.g. Python, Ruby, C++, client-side JavaScript) are
 welcomed.
