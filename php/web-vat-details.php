@@ -3,6 +3,7 @@
 #
 # Request details for a VAT from the GSIS SOAP web service
 #
+# Copyright 2017 Marios Kaintatzis
 # Copyright 2016 Spiros Ioannou
 #
 #   Licensed under the Apache License, Version 2.0 (the "License");
