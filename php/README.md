@@ -1,15 +1,16 @@
 # Get details for a Greek VAT code
 Example php source which obtains VAT details from GSIS. 
 
-This example is run from the command-line. Compatible with php 5.3
+This example on how to run from command-line and call from web. Compatible with PHP 5.3, 5.6, 7.1
 
 Also includes a function which calls the VIES Soap VAT details services.
 
-
 ```
-Example:
+Example using command line:
 $ php greek-vat.php <username> <passsword> <callers vat> 090283815
 
+Example using GET/POST:
+wget https://www.example.com/web-vat-details.php?u=xxxx&p=xxxx&myafm=xxxxxxx&afm=090283815
 
 Array
 (
@@ -64,5 +65,6 @@ stdClass Object
     [name] => ΥΠΟΥΡΓΕΙΟ ΠΟΛΙΤΙΣΜΟΥ
     [address] => ΜΠΟΥΜΠΟΥΛΙΝΑΣ 20-2 10682 - ΑΘΗΝΑ
 )
+
 ```
 
