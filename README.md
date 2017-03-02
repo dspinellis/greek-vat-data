@@ -15,7 +15,7 @@ Currently the following clients are provided.
 * C# contributed by [Dimitris - Ilias Gkanatsios](http://www.dgkanatsios.com)
 * Java contributed by Anastasios Zouzias
 * JavaScript contributed by Anastasios Zouzias
-* PHP contributed by Spiros Ioannou
+* PHP contributed by Spiros Ioannou and Marios Kaintatzis
 
 # Contributing
 Contributions in other languages (e.g. Python, Ruby, C++, client-side JavaScript) are
