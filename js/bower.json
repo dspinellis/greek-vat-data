@@ -1,9 +1,0 @@
-{
-  "name": "greek-vat-data",
-  "version": "0.0.0",
-  "dependencies": {
-    "angular": "~1.0.8",
-    "modernizr": "~2.6.2"
-  },
-  "devDependencies": {}
-}

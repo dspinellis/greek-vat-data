@@ -40,11 +40,7 @@ var port = 3000;
 /*
  * Use Handlebars for templating
  */
-var exphbs = require('express3-handlebars');
-var hbs;
-
-// For gzip compression
-app.use(express.compress());
+var exphbs = require('express-handlebars');
 
 // See http://stackoverflow.com/questions/5710358/how-to-retrieve-post-query-parameters-in-express
 app.use(express.json());       // to support JSON-encoded bodies
