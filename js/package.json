@@ -17,7 +17,7 @@
     "compress": "^0.99.0",
     "connect": "^3.7.0",
     "express": "^4.17.1",
-    "express-handlebars": "3.1.x",
+    "express-handlebars": "5.3.x",
     "https": "^1.0.0",
     "xml2js": "^0.4.16"
   },
