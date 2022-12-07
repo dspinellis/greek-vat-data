@@ -17,19 +17,9 @@ Currently the following clients are provided.
 * JavaScript contributed by Anastasios Zouzias
 * PHP contributed by Spiros Ioannou and Marios Kaintatzis
 
-# Contributing
-Contributions in other languages (e.g. Python, Ruby, C++, client-side JavaScript) are
-welcomed.
-Please follow these steps to contribute a new client.
+# Archived
+This repository has been archived, and is no longer accepting contributions. You are welcome to use its code,
+but keep in mind that dependencies need to be updated in order to incorporate security vulnerabilities that have
+been fixed in them.
 
-* Visit the repository's
-[GitHub issues](https://github.com/dspinellis/greek-vat-data/issues)
-and open a new issue describing the client you wish to contribute,
-in order to avoid work duplication.
-* Place your code under a separate directory (e.g. `JavaScript`).
-* Add a `README.md` file describing the client's prerequisites and use.
-* License the code under the
-[Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
-by adding a copyright notice with your name.
-(See the scripts in the `bash` directory for an example.)
-* Contribute via a [GitHub pull request](https://yangsu.github.io/pull-request-tutorial/).
+If you want to take over the repository's maintenance, I'd be happy to add a pointer to your maintained fork.
